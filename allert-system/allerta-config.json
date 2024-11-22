@@ -1,4 +1,3 @@
-// allerta-config.json
 {
   "widgetActive": true,
   "message": "Attenzione: Allerta meteo attiva!"
